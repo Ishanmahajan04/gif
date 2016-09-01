@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0124D2151D77D41300E06BDB /* psy2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0124D2141D77D41300E06BDB /* psy2.mp3 */; };
 		013B04311D75327A00D8AFB7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013B04301D75327A00D8AFB7 /* AppDelegate.swift */; };
 		013B04331D75327A00D8AFB7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013B04321D75327A00D8AFB7 /* ViewController.swift */; };
 		013B04361D75327A00D8AFB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 013B04341D75327A00D8AFB7 /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0124D2141D77D41300E06BDB /* psy2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = psy2.mp3; sourceTree = "<group>"; };
 		013B042D1D75327A00D8AFB7 /* gifpage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gifpage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		013B04301D75327A00D8AFB7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		013B04321D75327A00D8AFB7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				013B04321D75327A00D8AFB7 /* ViewController.swift */,
 				013B04341D75327A00D8AFB7 /* Main.storyboard */,
 				01ADF2B51D754A64004181D7 /* viewController2.swift */,
+				0124D2141D77D41300E06BDB /* psy2.mp3 */,
 				013B04371D75327A00D8AFB7 /* Assets.xcassets */,
 				013B04391D75327A00D8AFB7 /* LaunchScreen.storyboard */,
 				013B043C1D75327A00D8AFB7 /* Info.plist */,
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				013B043B1D75327A00D8AFB7 /* LaunchScreen.storyboard in Resources */,
+				0124D2151D77D41300E06BDB /* psy2.mp3 in Resources */,
 				01E13C301D7552C700838543 /* images.atlas in Resources */,
 				013B04381D75327A00D8AFB7 /* Assets.xcassets in Resources */,
 				013B04361D75327A00D8AFB7 /* Main.storyboard in Resources */,

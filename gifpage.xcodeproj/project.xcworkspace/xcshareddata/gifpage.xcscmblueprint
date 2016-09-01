@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "57DD8271C2F4EE74BD2FD2D036CDCF00A8851C27",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0B78E745D46092CCCEAC84F5491C6D6313541FBC" : 0,
+    "57DD8271C2F4EE74BD2FD2D036CDCF00A8851C27" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8D93E3CE-0B4D-4FAE-8730-3EDB706B09C6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0B78E745D46092CCCEAC84F5491C6D6313541FBC" : "",
+    "57DD8271C2F4EE74BD2FD2D036CDCF00A8851C27" : "gifpage\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "gifpage",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "gifpage.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Ishanmahajan04\/Login_page.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B78E745D46092CCCEAC84F5491C6D6313541FBC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Ishanmahajan04\/gif.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "57DD8271C2F4EE74BD2FD2D036CDCF00A8851C27"
+    }
+  ]
+}
