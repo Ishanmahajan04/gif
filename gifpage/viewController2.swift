@@ -26,18 +26,21 @@ var ButtonAudioPlayer = AVAudioPlayer()
                 }
         catch{
             print("Error")
-    }
-            var imagesnames = ["win_1", "win_2", "win_3", "win_4", "win_5","win_6","win_7","win_8","win_9","win_10","win_11","win_12","win_13","win_14","win_15","win_16"]
-        
-        var images = [UIImage]()
-        for i in 0..<imagesnames.count{
-            images.append(UIImage(named: imagesnames[i])!)
-        }
-        
-        imageView1.animationImages = images
-        imageView1.startAnimating()
-        
-
+  }
+//            var imagesnames = ["win_1", "win_2", "win_3", "win_4", "win_5","win_6","win_7","win_8","win_9","win_10","win_11","win_12","win_13","win_14","win_15","win_16"]
+//        
+//        var images = [UIImage]()
+//        for i in 0..<imagesnames.count{
+//            images.append(UIImage(named: imagesnames[i])!)
+//        }
+//        
+//        imageView1.animationImages = images
+//        imageView1.startAnimating()
+//        
+        let Gif = UIImage.gifImageWithName("giphy1")
+        let imageview1 = UIImageView(image: Gif)
+        imageview1.frame = CGRect(x:20, y:50.0, width: self.view.frame.size.width-40, height: 150.0 )
+        view.addSubview(imageview1)
         
     }
     
